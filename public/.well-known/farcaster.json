@@ -1,0 +1,29 @@
+{
+    "accountAssociation": {
+        "header": "",
+        "payload": "",
+        "signature": ""
+    },
+    "baseBuilder": {
+        "allowedAddresses": [""]
+    },
+    "miniapp": {
+      "version": "1",
+      "name": "TouchGrass", 
+      "subtitle": "Drive yourself into real-world,Dont stay online too much", 
+      "description": "Screentime alert",
+      "screenshotUrls": ["https://touch-grass-app-ten.vercel.app/screenshot.png"],
+      "iconUrl": "https://touch-grass-app-ten.vercel.app/icon.png",
+      "splashImageUrl": "https://touch-grass-app-ten.vercel.app/name.png",
+      "splashBackgroundColor": "#000000",
+      "homeUrl": "https://touch-grass-app-ten.vercel.app/",
+      "webhookUrl": "https://touch-grass-app-ten.vercel.app/api/webhook",
+      "primaryCategory": "productivity",
+      "tags": ["time", "online", "screentime" ],
+      "heroImageUrl": "https://touch-grass-app-ten.vercel.app/icon.png", 
+      "tagline": "Go Touch Grass",
+      "ogTitle": "Touch Grass",
+      "ogDescription": "Dont stay online too much. Go Touch Grass",
+      "ogImageUrl": "https://touch-grass-app-ten.vercel.app/icon.png"
+    }
+}
