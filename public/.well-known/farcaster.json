@@ -10,7 +10,7 @@
     "miniapp": {
       "version": "1",
       "name": "TouchGrass", 
-      "subtitle": "Drive yourself into real-world,Dont stay online too much", 
+      "subtitle": "Turn your selfmode ON,Dont stay online too much", 
       "description": "Screentime alert",
       "screenshotUrls": ["https://touch-grass-app-ten.vercel.app/screenshot.png"],
       "iconUrl": "https://touch-grass-app-ten.vercel.app/icon.png",
